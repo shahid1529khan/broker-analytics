@@ -82,7 +82,3 @@ VALUES (
 - **Frontend**: Deploy to [Vercel](https://vercel.com) — set `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, and `VITE_API_URL` (your Railway backend URL) in Vercel env vars
 
 ---
-
-## Files Changed from Original AI Studio Export
-
-See CHANGES.md for a full list of what was fixed.
